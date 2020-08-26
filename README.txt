@@ -1,5 +1,11 @@
 READ ME 
 
+ABOUT 
+This project will be given an input beam position monitor graph and will predict whetherthe beam position monitor graph is of type BPM or CORR. 
+
+
+SETUP
+
 (COMMANDS ARE IN LINUX ALREADY)
 You will first have to install Python for this project. I have Python 3.6.8 installed
 After this you can create a virtualenv, to install virtualenv run this:
